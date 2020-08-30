@@ -1,0 +1,179 @@
+body{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #fbe2e5;
+
+
+}
+h1{
+  line-height: 2;
+color:  #393b44;
+  font-size: 50px;
+margin: 50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+
+}
+
+h2{
+color: #393b44;
+font-family: 'Montserrat', sans-serif;
+padding-bottom: 10px;
+}
+
+h3{
+  font-size: 1em;
+color:  #11999E;
+font-family: 'Montserrat', sans-serif;
+
+
+}
+p{
+  line-height: 2;
+}
+a:hover{
+color: yellow;
+}
+.pro{
+  text-decoration: underline;
+}
+.pro1{
+  font-size: 20px;
+  font-weight: normal;
+  color:  #393b44;
+}
+.profil{
+  margin-top: 10px;
+}
+.top-container{
+  background-color: #a2d5f2;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+margin: 50px 0;
+}
+.bottom-container{
+  background-color: #145374;
+margin-top: 50px;
+padding-top: 20px;
+padding-bottom: 5px;
+
+  }
+  .zadnji{
+    color: white;
+    margin-top: 50px;
+    font-size: 0.75rem;
+  }
+
+.mountain{
+position: relative;
+top: 4px;
+
+}
+.top-cloud{
+position: absolute;
+right: 300px;
+top:40px;
+}
+.bottom-cloud{
+position: absolute;
+left: 250px;
+bottom: 300px;
+}
+.footer-link1{
+  color:  white;
+margin-right: 50px;
+text-decoration: none;
+
+}
+.footer-link2{
+  color:  white;
+  text-decoration: none;
+
+}
+.footer-link3{
+  color:  white;
+margin-left: 50px;
+text-decoration: none;
+
+}
+.skills{
+  margin-top:  50px;
+}
+.skills1{
+  margin-top: 0;
+  position: relative;
+  top:30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.computer{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+
+}
+.chillies{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.text1{
+  color: #40514E;
+  width: 30%;
+  margin: auto;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto  60px;
+}
+.hr1{
+
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 10px;
+      width: 10%;
+      position: relative;
+      top: 40px;
+}
+.hr2{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+  position: relative;
+  bottom: 20px;
+}
+.myButton {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
+	background-color:#2dabf9;
+	border-radius:3px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Merriweather', serif;
+	font-size:15px;
+	padding:9px 23px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
